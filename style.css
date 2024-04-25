@@ -1,0 +1,29 @@
+.nav-link {
+    color: #cbbde2;
+}
+.nav-link:hover{
+    
+    color:#FFFFFF;
+
+}
+.nav-link:focus{
+    
+    color:#FFFFFF;
+
+}
+.btn-custom{
+    background-color: #563D7C;
+    color: #cbbde2;
+    color:  white;
+}
+.btn{
+    background-color: #563D7C;
+    color:  white;
+}
+
+footer {
+    background-color: #563D7C;
+    color:  white;/* Optional, for text color */
+    text-align: center;
+    
+}
